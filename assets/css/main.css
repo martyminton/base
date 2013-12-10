@@ -1,6 +1,9 @@
 /*!
 * Base v1
 */
+body {
+  background: yellow; }
+
 /* ALL ANIMATIONS */
 /* Fontfaces */
 @font-face {
